@@ -6,11 +6,6 @@
 <br/>
  **Empowering Students. Enabling Placements. Transforming Careers.**
 <br/>
-
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-0078D4?style=flat-square)](https://add-demo-url-here)
-[![Demo Video](https://img.shields.io/badge/▶️%20Demo%20Video-YouTube-FF0000?style=flat-square)](https://add-youtube-url-here)
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Star%20This%20Repo-Support%20Us-FFD700?style=flat-square)](https://add-github-url-here)
-
 </div>
 
 ---
@@ -392,7 +387,7 @@ The future of placement is not reactive. It is **predictive, personalized, and p
 
 | Resource | Link |
 |----------|------|
-| 🌐 **Live Demo** | [Add Live Demo URL] |
+| 🌐 **Live Demo** |https://career-twin-p0ra25lhg-yadavsnehal137-1960s-projects.vercel.app/|
 | ▶️ **Demo Video** |https://youtu.be/08s0P4X8JEs?feature=shared |
 
 </div>
