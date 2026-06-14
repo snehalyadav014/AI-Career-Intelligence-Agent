@@ -393,7 +393,7 @@ The future of placement is not reactive. It is **predictive, personalized, and p
 | Resource | Link |
 |----------|------|
 | 🌐 **Live Demo** | [Add Live Demo URL] |
-| ▶️ **Demo Video** | https://youtu.be/YfyiwM4Az1M |
+| ▶️ **Demo Video** |https://youtu.be/08s0P4X8JEs?feature=shared |
 
 </div>
 
