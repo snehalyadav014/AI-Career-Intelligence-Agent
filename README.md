@@ -141,22 +141,6 @@ CareerTwin AI is engineered on a foundation of cutting-edge AI capabilities, bui
 
 ---
 
-## 🏗️ Enterprise Architecture
-
-CareerTwin AI is designed on a modern, layered enterprise architecture built for scalability, modularity, and intelligent orchestration.
-
----
-Layer| Components
-👤 User Layer| Students, Placement Officers, Faculty Members, Recruiters, Administrators
-🖥 Frontend Layer| React.js, Student Portal, Placement Dashboard, Admin Dashboard, Responsive UI
-🤖 AI Agent Layer| Azure OpenAI, Azure AI Services, NLP, Recommendation Engine, AI Career Advisor
-🧠 CareerTwin Intelligence Engine| Career Intelligence, Resume Analysis, Skill Gap Detection, Learning Recommendations, Placement Readiness
-⚙ Backend Layer| Java Spring Boot, REST APIs, Authentication, Business Logic Services
-🗄 Database Layer| MySQL, Student Profiles, Resume Repository, Placement Records, Analytics Data
-📊 Analytics Layer| Power BI, KPI Dashboards, Placement Forecasting, Performance Analytics
-🌐 Output Layer| Career Reports, Learning Roadmaps, Placement Dashboards, Recommendations
----
-
 ## 🔄 System Workflow
 
 ```
