@@ -146,133 +146,15 @@ CareerTwin AI is engineered on a foundation of cutting-edge AI capabilities, bui
 CareerTwin AI is designed on a modern, layered enterprise architecture built for scalability, modularity, and intelligent orchestration.
 
 ```mermaid
-flowchart BT
-
-    A["🌐 OUTPUT & REPORTING LAYER<br/><br/>
-    • Placement Readiness Reports<br/>
-    • Career Recommendations<br/>
-    • Learning Roadmaps<br/>
-    • Placement Analytics Dashboards<br/>
-    • Institutional Insights"]
-
-    B["📊 ANALYTICS LAYER<br/><br/>
-    • Power BI Dashboards<br/>
-    • Placement Forecasting<br/>
-    • Student Performance Analytics<br/>
-    • Department-Wise Reports<br/>
-    • KPI Monitoring & Insights"]
-
-    C["🗄 DATABASE LAYER<br/><br/>
-    • MySQL Database<br/>
-    • Student Profiles<br/>
-    • Resume Repository<br/>
-    • Placement Records<br/>
-    • Learning Progress Data<br/>
-    • Analytics Data Store"]
-
-    D["⚙ BACKEND LAYER<br/><br/>
-    • Java Spring Boot<br/>
-    • REST APIs<br/>
-    • Authentication & Authorization<br/>
-    • Business Logic Services<br/>
-    • Placement Management Services<br/>
-    • Data Processing & Integration"]
-
-    E["🧠 CAREERTWIN INTELLIGENCE ENGINE<br/><br/>
-    • Career Intelligence Engine<br/>
-    • Resume Intelligence Engine<br/>
-    • Skill Gap Analysis Engine<br/>
-    • Learning Recommendation Engine<br/>
-    • Placement Readiness Engine<br/>
-    • Career Analytics Engine"]
-
-    F["🤖 AI AGENT LAYER<br/><br/>
-    • Azure OpenAI<br/>
-    • Azure AI Services<br/>
-    • Natural Language Processing (NLP)<br/>
-    • Recommendation Engine<br/>
-    • AI Career Advisor Agent<br/>
-    • Resume Analysis Agent<br/>
-    • Skill Gap Detection Agent"]
-
-    G["🖥 FRONTEND LAYER<br/><br/>
-    • React.js Web Application<br/>
-    • Student Portal<br/>
-    • Placement Cell Dashboard<br/>
-    • Admin Dashboard<br/>
-    • Responsive UI/UX"]
-
-    H["👤 USER LAYER<br/><br/>
-    • Students<br/>
-    • Placement Officers<br/>
-    • Faculty Members<br/>
-    • Recruiters<br/>
-    • Administrators"]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-    G --> H
-```
-### Layer Descriptions
-
-**1. 👤 User Layer**
-The entry point for all stakeholders — students accessing their career dashboard, placement officers managing cohorts, institutional admins reviewing analytics, and recruiters exploring talent profiles.
-
-**2. 🖥️ Frontend Layer**
-A modern, responsive React.js-based UI delivering a seamless experience across the Student Portal and Placement Cell Dashboard. Designed with Microsoft Fluent Design principles, glassmorphism aesthetics, and enterprise-grade UX patterns.
-
-**3. 🤖 AI Agent Layer**
-A collection of specialized AI agents built on Azure OpenAI and Azure AI Services, each responsible for a distinct intelligence domain — resume analysis, career recommendation, skill gap detection, and predictive analytics. Agents communicate via an orchestration bus.
-
-**4. 🧠 CareerTwin Intelligence Engine**
-The proprietary core engine that synthesizes outputs from all AI agents, applies business rules, and generates the holistic intelligence that powers placement readiness scores, roadmaps, and career recommendations.
-
-**5. ⚙️ Backend Layer**
-A robust Java Spring Boot microservices backend exposing secure, versioned REST APIs. Handles authentication, authorization, business logic, AI orchestration calls, and data persistence.
-
-**6. 🗄️ Database Layer**
-A structured MySQL relational database managing student profiles, skill matrices, resume metadata, placement records, company data, and historical analytics.
-
-**7. 📊 Analytics Layer**
-Microsoft Power BI integration providing rich, interactive dashboards for placement officers and institutional leadership — with real-time KPIs, trend analysis, and predictive forecasting visualizations.
-
-**8. 🌐 Output Layer**
-The intelligence delivery layer — surfacing career recommendations, placement reports, learning roadmaps, ATS scores, skill gap visualizations, and institutional forecasts to the right stakeholder at the right time.
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-| Layer | Technology |
-|-------|-----------|
-| **Frontend** | React.js · HTML5 · CSS3 · JavaScript (ES6+) |
-| **Backend** | Java · Spring Boot · REST APIs |
-| **Database** | MySQL |
-| **AI & Intelligence** | Azure OpenAI · Microsoft Azure AI Services |
-| **Cloud Platform** | Microsoft Azure |
-| **Analytics & BI** | Microsoft Power BI |
-
-</div>
-
----
-
-## ✨ UI/UX Highlights
-
-CareerTwin AI's interface is designed to meet enterprise-grade usability standards while delivering a modern, engaging user experience.
-
-- **🪟 Microsoft-Inspired Design** — Clean layouts, consistent spacing, and a professional color palette inspired by Microsoft Fluent Design System principles
-- **📊 Modern Dashboard** — Information-dense yet scannable dashboards with actionable widgets, progress indicators, and priority-ranked insights
-- **🌟 Glassmorphism** — Contemporary frosted-glass UI elements that add visual depth while maintaining clarity and readability
-- **📱 Responsive Design** — Fully adaptive layouts optimized for desktop, tablet, and mobile viewports — accessible from any device, anywhere
-- **📉 Interactive Analytics** — Drill-down charts, filterable data tables, and animated KPI cards that make placement data intuitive and actionable
-- **🏢 Enterprise User Experience** — Role-based views, contextual navigation, and workflow-optimized interfaces that reduce cognitive load and increase productivity for placement professionals
-
+Layer| Components
+👤 User Layer| Students, Placement Officers, Faculty Members, Recruiters, Administrators
+🖥 Frontend Layer| React.js, Student Portal, Placement Dashboard, Admin Dashboard, Responsive UI
+🤖 AI Agent Layer| Azure OpenAI, Azure AI Services, NLP, Recommendation Engine, AI Career Advisor
+🧠 CareerTwin Intelligence Engine| Career Intelligence, Resume Analysis, Skill Gap Detection, Learning Recommendations, Placement Readiness
+⚙ Backend Layer| Java Spring Boot, REST APIs, Authentication, Business Logic Services
+🗄 Database Layer| MySQL, Student Profiles, Resume Repository, Placement Records, Analytics Data
+📊 Analytics Layer| Power BI, KPI Dashboards, Placement Forecasting, Performance Analytics
+🌐 Output Layer| Career Reports, Learning Roadmaps, Placement Dashboards, Recommendations
 ---
 
 ## 🔄 System Workflow
