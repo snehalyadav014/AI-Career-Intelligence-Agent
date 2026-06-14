@@ -5,8 +5,7 @@
 ### *AI Career Intelligence & Placement Management Agent*
 
 <br/>
-
-> **Empowering Students. Enabling Placements. Transforming Careers.**
+ **Empowering Students. Enabling Placements. Transforming Careers.**
 
 <br/>
 
