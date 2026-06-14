@@ -237,3 +237,5 @@ The future of placement is not reactive. It is **predictive, personalized, and p
 
 </div>
 
+🌟 Show Some Love
+If you enjoyed exploring CareerTwin AI, consider giving it a ⭐ on GitHub. It fuels my motivation to keep pushing boundaries!
